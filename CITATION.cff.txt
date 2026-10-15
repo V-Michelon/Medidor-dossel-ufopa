@@ -2,8 +2,8 @@ YAML
 cff-version: 1.2.0
 message: "Se você utilizar este software na sua pesquisa, por favor, cite-o utilizando os metadados abaixo."
 authors:
-  - family-names: "Michelon Pereira"
-    given-names: "V. A."
+  - family-names: "V.A.Michelon Pereira"
+    given-names: 
 title: "Script de Visão Computacional para Medição de Abertura de Dossel"
 version: 1.0.0
 date-released: 2026-10-15
