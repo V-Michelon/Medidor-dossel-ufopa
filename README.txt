@@ -4,7 +4,7 @@ Algoritmo desenvolvido em Python para calcular a percentagem de passagem de luz 
 
 Esta ferramenta utiliza Visão Computacional (OpenCV) para separar as áreas de céu e folhagem, quantificando a cobertura vegetal. Pesquisa vinculada à Universidade Federal do Oeste do Pará (UFOPA).
 
-[![DOI](https://zenodo.org/badge/DOI/SEU-DOI-AQUI.svg)](https://doi.org/SEU-DOI-AQUI)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23403386.svg)](https://doi.org/10.5281/zenodo.23403386)
 
 # Pré-requisitos e Bibliotecas
 
@@ -25,7 +25,7 @@ O script foi otimizado para o Google Colab e utiliza as seguintes bibliotecas pr
 
 Se utilizar este código na sua pesquisa, por favor, cite-o seguindo o padrão ABNT:
 
-> PEREIRA, V. A. Michelon. *Script de Visão Computacional para Medição de Abertura de Dossel*. Versão 1.0. Santarém, PA: Zenodo, 2026. Software. Disponível em: <https://doi.org/SEU-DOI-AQUI>.
+> > V.A.Michelon.Pereira *Script de Visão Computacional para Medição de Abertura de Dossel*. Versão 1.0. Santarém, PA: Zenodo, 2026. Software. Disponível em: <https://doi.org/10.5281/zenodo.23403386>.
 
 ##  Licença
 
